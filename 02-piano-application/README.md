@@ -15,16 +15,13 @@ Una aplicación de piano digital interactiva desarrollada con **JavaScript Vanil
 * **CSS3:** Layout con Flexbox, variables CSS (`--width`) y cálculos dinámicos con `calc()`.
 * **JavaScript (Vanilla):** Manipulación de la Audio API y gestión dinámica de clases de estado.
 
-## 📦 Instalación y Uso
+## 📦 Uso y Ejecución
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/yamilrafart2/SpeechToTextApplication.git
-   ```
+Este proyecto es parte del [JS Projects Portfolio](https://github.com/yamilrafart2/JS-Projects-Portfolio).
 
-2. Abre el archivo `index.html` dentro de la carpeta `02-piano-application` en tu navegador.
-
-3. Haz clic sobre cualquier tecla (blanca o negra) para reproducir el sonido.
+1. Abre el archivo `index.html` de esta carpeta en tu navegador.
+2. Haz clic sobre cualquier tecla (blanca o negra) para reproducir el sonido.
+3. Asegúrate de tener los archivos de audio en la carpeta `/notes`.
 
     > 💡 **Nota de Idioma:** Las etiquetas de las notas siguen el cifrado americano estándar (C, D, E, F, G, A, B).
 

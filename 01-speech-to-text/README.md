@@ -16,18 +16,14 @@ Una aplicación web sencilla y elegante que utiliza la **Web Speech API** para c
 * **JavaScript (Vanilla):** Lógica de la Web Speech API y manipulación del DOM.
 * **Font Awesome:** Iconos para los controles de voz.
 
-## 📦 Instalación y Uso
+## 📦 Uso y Ejecución
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/yamilrafart2/SpeechToTextApplication.git
-   ```
+Este proyecto es parte del [JS Projects Portfolio](https://github.com/yamilrafart2/JS-Projects-Portfolio).
 
-2. Abre el archivo ``index.html`` en tu navegador (se recomienda usar un servidor local como Live Server en VS Code).
-
+1. Abre el archivo `index.html` de esta carpeta en tu navegador.
+2. Se recomienda usar la extensión **Live Server** de VS Code para el correcto funcionamiento de las Web APIs.
 3. Haz clic en el botón del **micrófono** para comenzar a hablar.
-
-4. Haz clic en el botón de stop para detener el reconocimiento.
+4. Haz clic en el botón de **stop** para detener el reconocimiento.
 
     > 💡 **Nota de Idioma:** Actualmente, el sistema está optimizado para reconocer únicamente el **idioma Inglés (EE.UU.)**.
 
